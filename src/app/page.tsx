@@ -28,7 +28,6 @@ sr.reveal('.sr-banner', { origin: 'bottom' });
 sr.reveal('.sr-hero', { interval: 120, origin: 'bottom' });
 sr.reveal('.sr-consultoria', { interval: 120, origin: 'bottom' });
 sr.reveal('.hscroll', { interval: 100, origin: 'bottom' });
-sr.reveal('.sr-depo', { interval: 100, origin: 'bottom' });
 sr.reveal('.sr-conteudo', { interval: 100, origin: 'bottom' });
 sr.reveal('footer', { origin: 'bottom' });
 } catch {}
